@@ -5,6 +5,7 @@
     "email": "adarshz1080@gmail.com"
   },
   "records": {
-    "A": ["216.198.79.1"]
+    "A": ["216.198.79.1"],
+    "CNAME": "d7b7abbd6beaf74d.vercel-dns-017.com"
   }
 }
